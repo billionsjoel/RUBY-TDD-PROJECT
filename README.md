@@ -2,6 +2,10 @@
 
 In this project we implemented a class with some methods using test-driven development (TDD).
 
+## App screenshot
+![screenshot](./appscreenshot.png)
+
+
 ## Built With
 
 - Ruby
