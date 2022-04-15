@@ -23,9 +23,9 @@ In this project we implemented a class with some methods using test-driven devel
 
 👤 **BILLIONS A JOEL**
 
-- GitHub: [@rachidelaid](https://github.com/billionsjoel)
-- Twitter: [@rachidelaid1](https://twitter.com/billionsjoel)
-- LinkedIn: [rachid elaid](https://www.linkedin.com/in/billionsjoel/)
+- GitHub: [@billionsjoel](https://github.com/billionsjoel)
+- Twitter: [@billionsjoel](https://twitter.com/billionsjoel)
+- LinkedIn: [@billionsjoel](https://www.linkedin.com/in/billionsjoel/)
 
 👤 **JOS KALENDA**
 
